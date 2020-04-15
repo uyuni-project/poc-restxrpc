@@ -1,3 +1,5 @@
+<p><img src="https://img.shields.io/badge/EXPERIMENTAL-WIP-red" /></p>
+
 # restxrpc
 
 Drop-in replacement for Python's `xmlrpclib`. The `restxrpc` allows
